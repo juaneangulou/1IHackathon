@@ -1,0 +1,6 @@
+@OneInc.Hackathon.Reporting_HostAddress = http://localhost:5068
+
+GET {{OneInc.Hackathon.Reporting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

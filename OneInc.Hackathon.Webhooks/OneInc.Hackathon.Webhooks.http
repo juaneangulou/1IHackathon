@@ -1,0 +1,6 @@
+@OneInc.Hackathon.Webhooks_HostAddress = http://localhost:5209
+
+GET {{OneInc.Hackathon.Webhooks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

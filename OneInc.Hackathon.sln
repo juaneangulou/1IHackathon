@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneInc.Hackathon.SharedDatabase", "OneInc.Hackathon.SharedDatabase\OneInc.Hackathon.SharedDatabase.csproj", "{9B773951-45DE-47B3-90CC-11367E65D5E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneInc.Hackathon.Webhooks", "OneInc.Hackathon.Webhooks\OneInc.Hackathon.Webhooks.csproj", "{D28013FD-5CDD-4395-A422-779DACF80C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneInc.Hackathon.Notifications", "OneInc.Hackathon.Notifications\OneInc.Hackathon.Notifications.csproj", "{542CD2F6-198C-453F-8CC3-2C12C5084AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneInc.Hackathon.Reporting", "OneInc.Hackathon.Reporting\OneInc.Hackathon.Reporting.csproj", "{22E9043E-1E63-492B-80CE-3E848513DAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B773951-45DE-47B3-90CC-11367E65D5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B773951-45DE-47B3-90CC-11367E65D5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B773951-45DE-47B3-90CC-11367E65D5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B773951-45DE-47B3-90CC-11367E65D5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28013FD-5CDD-4395-A422-779DACF80C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28013FD-5CDD-4395-A422-779DACF80C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28013FD-5CDD-4395-A422-779DACF80C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28013FD-5CDD-4395-A422-779DACF80C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542CD2F6-198C-453F-8CC3-2C12C5084AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542CD2F6-198C-453F-8CC3-2C12C5084AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542CD2F6-198C-453F-8CC3-2C12C5084AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542CD2F6-198C-453F-8CC3-2C12C5084AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E9043E-1E63-492B-80CE-3E848513DAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E9043E-1E63-492B-80CE-3E848513DAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E9043E-1E63-492B-80CE-3E848513DAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E9043E-1E63-492B-80CE-3E848513DAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
