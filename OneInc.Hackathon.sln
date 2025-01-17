@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneInc.Hackathon.Notificati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneInc.Hackathon.Reporting", "OneInc.Hackathon.Reporting\OneInc.Hackathon.Reporting.csproj", "{22E9043E-1E63-492B-80CE-3E848513DAFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneInc.Hackathon.ESBIntegrator", "OneInc.Hackathon.ESBIntegrator\OneInc.Hackathon.ESBIntegrator.csproj", "{15812CFA-D1EE-4324-A63F-FDFFEFB06F5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{22E9043E-1E63-492B-80CE-3E848513DAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22E9043E-1E63-492B-80CE-3E848513DAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22E9043E-1E63-492B-80CE-3E848513DAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15812CFA-D1EE-4324-A63F-FDFFEFB06F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15812CFA-D1EE-4324-A63F-FDFFEFB06F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15812CFA-D1EE-4324-A63F-FDFFEFB06F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15812CFA-D1EE-4324-A63F-FDFFEFB06F5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,6 @@
+@OneInc.Hackathon.ESBIntegrator_HostAddress = http://localhost:5225
+
+GET {{OneInc.Hackathon.ESBIntegrator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
